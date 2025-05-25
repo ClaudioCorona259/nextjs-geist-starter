@@ -1,0 +1,7 @@
+/project/sandbox/user-workspace/backend/obj/Debug/net8.0/backend.csproj.AssemblyReference.cache
+/project/sandbox/user-workspace/backend/obj/Debug/net8.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs
+/project/sandbox/user-workspace/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/project/sandbox/user-workspace/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cache
